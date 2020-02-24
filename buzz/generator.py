@@ -3,7 +3,7 @@ import random
 
 buzz = ('Nelson Liao','continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
-adjectives = ('A01030972','complete', 'modern', 'self-service', 'integrated', 'end-to-end')
+adjectives = ('A01030972', 'testtest', 'complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
